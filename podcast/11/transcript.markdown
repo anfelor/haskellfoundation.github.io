@@ -295,7 +295,7 @@ type class?
 _SPJ_: Well so that was that was the killer app, right? I don't think this was
 in the original Haskell, I'm not remembering the chronology very well. But the
 killer for higher kinded type variables is that we could have a type class of
-`Monad`. So Phil Wadddler's paper about comprehending monads that first
+`Monad`. So Phil Wadler's paper about comprehending monads that first
 introduced to us the idea taken from Eugenio Moggi's work that you could use
 monads as a programming idiom was a complete revelation to me at the time. But
 then to make it a programing idiom we could use over many monads you need this
